@@ -49,16 +49,6 @@ qr-code-component/
 └── README.md
 ```
 
-## Getting started
-
-No installation is needed.
-
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/gloomyygl/qr-code-component.git
-   ```
-2. Open `index.html` in your browser.
-
 ## Acknowledgments
 
 Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge).
